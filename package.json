@@ -1,0 +1,27 @@
+{
+  "name": "classic-computer-science-problems-typescript",
+  "description": "Exercises for chapter 1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx tsc",
+    "start": "node index"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salarhfz-fs/classic-computer-science-problems-typescript.git"
+  },
+  "author": {
+    "name": "Salar Hafezi",
+    "email": "salar.hfz@gmail.com",
+    "url": "https://www.salarhafezi.ir"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salarhfz-fs/classic-computer-science-problems-typescript/issues"
+  },
+  "homepage": "https://github.com/salarhfz-fs/classic-computer-science-problems-typescript#readme"
+}
